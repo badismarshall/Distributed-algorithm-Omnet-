@@ -1,0 +1,23 @@
+file 470 1640395672                                             
+version 2
+run General-15-20211225-02:27:48-7208
+attr configname General
+attr datetime 20211225-02:27:48
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars $N=5
+attr iterationvarsf N=5-
+attr measurement $N=5
+attr network Random
+attr processid 7208
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 15
+attr seedset 15
+itervar N 5
+param *.n 5
+
+vector 0 Random.Computer[0] MessagesN ETV
+0	446 22 5 5 0.1 0.1 2 2 5 7 29
+

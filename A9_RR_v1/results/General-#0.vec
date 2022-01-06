@@ -1,0 +1,28 @@
+version 2
+run General-0-20211219-14:04:36-8012
+attr configname General
+attr datetime 20211219-14:04:36
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 8012
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Network.C[5] HopCount ETV
+vector 1 Network.C[0] HopCount ETV
+vector 2 Network.C[4] HopCount ETV
+0	6	0.5	5
+0	32	3.1	1
+1	17	1.6	11
+1	29	2.8	10
+1	55	5.4	23
+2	19	1.8	2
+2	31	3	2
+

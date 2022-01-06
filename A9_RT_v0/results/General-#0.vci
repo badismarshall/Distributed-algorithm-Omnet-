@@ -1,0 +1,37 @@
+file 2110 1639919712                                            
+version 2
+run General-0-20211219-14:14:30-7516
+attr configname General
+attr datetime 20211219-14:14:30
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 7516
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Network.C[2] HopCount ETV
+vector 1 Network.C[1] HopCount ETV
+vector 2 Network.C[5] HopCount ETV
+vector 3 Network.C[0] HopCount ETV
+vector 4 Network.C[3] HopCount ETV
+vector 5 Network.C[4] HopCount ETV
+0	585 255 25 349 0.7 33.1 19 0 22 55 627
+1	840 170 26 324 0.8 30.6 13 0 1 6 6
+2	1010 213 38 330 2 31.2 16 0 13 66 558
+3	1223 186 43 295 2.5 27.7 14 1 6 40 150
+4	1409 274 48 332 3 31.4 21 0 14 61 471
+5	1683 201 49 345 3.1 32.7 15 0 1 3 3
+0	1884 14 369 369 35.1 35.1 1 1 1 1 1
+1	1898 56 356 382 33.8 36.4 4 0 1 1 1
+2	1954 28 352 380 33.4 36.2 2 2 3 5 13
+3	1982 70 355 383 33.7 36.5 5 0 2 4 6
+4	2052 14 364 364 34.6 34.6 1 6 6 6 36
+5	2066 42 365 375 34.7 35.7 3 0 1 1 1
+

@@ -1,0 +1,150 @@
+version 2
+run General-0-20211227-09:32:11-8860
+attr configname General
+attr datetime 20211227-09:32:11
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 8860
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar Network.C[0] #sent 2048
+scalar Network.C[0] #received 2048
+statistic Network.C[0] "hop count"
+field count 2048
+field mean 12.67041015625
+field stddev 12.324796117712
+field min 1
+field max 101
+field sum 25949
+field sqrsum 639725
+bin	-inf	0
+bin	0	0
+bin	1	145
+bin	2	168
+bin	3	137
+bin	4	122
+bin	5	149
+bin	6	68
+bin	7	118
+bin	8	70
+bin	9	97
+bin	10	974
+scalar Network.C[1] #sent 2081
+scalar Network.C[1] #received 2081
+statistic Network.C[1] "hop count"
+field count 2081
+field mean 3.9154252763095
+field stddev 4.8468424916398
+field min 1
+field max 46
+field sum 8148
+field sqrsum 80766
+bin	-inf	0
+bin	0	0
+bin	1	999
+bin	2	283
+bin	3	84
+bin	4	141
+bin	5	69
+bin	6	114
+bin	7	48
+bin	8	88
+bin	9	28
+bin	10	227
+scalar Network.C[2] #sent 2107
+scalar Network.C[2] #received 2107
+statistic Network.C[2] "hop count"
+field count 2107
+field mean 12.424774560987
+field stddev 11.55507943562
+field min 1
+field max 96
+field sum 26179
+field sqrsum 606461
+bin	-inf	0
+bin	0	0
+bin	1	157
+bin	2	173
+bin	3	165
+bin	4	98
+bin	5	158
+bin	6	87
+bin	7	113
+bin	8	52
+bin	9	101
+bin	10	1003
+scalar Network.C[3] #sent 2036
+scalar Network.C[3] #received 2036
+statistic Network.C[3] "hop count"
+field count 2036
+field mean 12.9557956778
+field stddev 12.430406201514
+field min 1
+field max 129
+field sum 26378
+field sqrsum 656186
+bin	-inf	0
+bin	0	0
+bin	1	127
+bin	2	160
+bin	3	160
+bin	4	96
+bin	5	136
+bin	6	79
+bin	7	124
+bin	8	76
+bin	9	105
+bin	10	973
+scalar Network.C[4] #sent 2132
+scalar Network.C[4] #received 2132
+statistic Network.C[4] "hop count"
+field count 2132
+field mean 4.0867729831144
+field stddev 4.7706156640658
+field min 1
+field max 42
+field sum 8713
+field sqrsum 84107
+bin	-inf	0
+bin	0	0
+bin	1	951
+bin	2	273
+bin	3	94
+bin	4	210
+bin	5	55
+bin	6	130
+bin	7	48
+bin	8	83
+bin	9	22
+bin	10	266
+scalar Network.C[5] #sent 2112
+scalar Network.C[5] #received 2112
+statistic Network.C[5] "hop count"
+field count 2112
+field mean 12.473484848485
+field stddev 12.089836533027
+field min 1
+field max 84
+field sum 26344
+field sqrsum 637154
+bin	-inf	0
+bin	0	0
+bin	1	148
+bin	2	175
+bin	3	190
+bin	4	130
+bin	5	121
+bin	6	87
+bin	7	120
+bin	8	79
+bin	9	112
+bin	10	950
+
